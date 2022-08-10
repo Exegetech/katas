@@ -1,0 +1,5 @@
+(library
+ (name aoc_2021)
+ (libraries containers)
+ (preprocess
+  (pps ppx_deriving.show)))
