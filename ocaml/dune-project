@@ -25,6 +25,7 @@
    alcotest
    utop
    containers
+   ppx_deriving
   )
  (tags
   (topics "to describe" your project)))
